@@ -6,5 +6,8 @@ func main() {
 	// read .txt file to byte
 	// codes.ReadFromTxtFile()
 	// read binary file to byte
-	codes.BinToBytes()
+	// codes.BinToBytes()
+	// escaped bytes
+	codes.EscBytes()
+
 }
